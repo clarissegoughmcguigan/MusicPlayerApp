@@ -1,0 +1,96 @@
+C:\Users\2101768\OneDrive - Kirklees College\L3 Software Development Yr1\Project 2\Music Player App\bin\Debug\Music Player App.exe.config
+C:\Users\2101768\OneDrive - Kirklees College\L3 Software Development Yr1\Project 2\Music Player App\bin\Debug\Music Player App.exe
+C:\Users\2101768\OneDrive - Kirklees College\L3 Software Development Yr1\Project 2\Music Player App\bin\Debug\Music Player App.pdb
+C:\Users\2101768\OneDrive - Kirklees College\L3 Software Development Yr1\Project 2\Music Player App\bin\Debug\Interop.WMPLib.dll
+C:\Users\2101768\OneDrive - Kirklees College\L3 Software Development Yr1\Project 2\Music Player App\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\2101768\OneDrive - Kirklees College\L3 Software Development Yr1\Project 2\Music Player App\obj\Debug\Music Player App.csproj.AssemblyReference.cache
+C:\Users\2101768\OneDrive - Kirklees College\L3 Software Development Yr1\Project 2\Music Player App\obj\Debug\Interop.WMPLib.dll
+C:\Users\2101768\OneDrive - Kirklees College\L3 Software Development Yr1\Project 2\Music Player App\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\2101768\OneDrive - Kirklees College\L3 Software Development Yr1\Project 2\Music Player App\obj\Debug\Music Player App.csproj.ResolveComReference.cache
+C:\Users\2101768\OneDrive - Kirklees College\L3 Software Development Yr1\Project 2\Music Player App\obj\Debug\Music_Player_App.MusicPlayerApp.resources
+C:\Users\2101768\OneDrive - Kirklees College\L3 Software Development Yr1\Project 2\Music Player App\obj\Debug\Music_Player_App.Properties.Resources.resources
+C:\Users\2101768\OneDrive - Kirklees College\L3 Software Development Yr1\Project 2\Music Player App\obj\Debug\Music Player App.csproj.GenerateResource.cache
+C:\Users\2101768\OneDrive - Kirklees College\L3 Software Development Yr1\Project 2\Music Player App\obj\Debug\Music Player App.csproj.CoreCompileInputs.cache
+C:\Users\2101768\OneDrive - Kirklees College\L3 Software Development Yr1\Project 2\Music Player App\obj\Debug\Music Player App.exe
+C:\Users\2101768\OneDrive - Kirklees College\L3 Software Development Yr1\Project 2\Music Player App\obj\Debug\Music Player App.pdb
+C:\Users\2101768\OneDrive - Kirklees College\L3 Software Development Yr1\Project 2\Music Player App\obj\Debug\Music_Player_App.Info.resources
+C:\Users\2101768\OneDrive - Kirklees College\L3 Software Development Yr1\Project 2\Backup5\bin\Debug\Music Player App.exe.config
+C:\Users\2101768\OneDrive - Kirklees College\L3 Software Development Yr1\Project 2\Backup5\bin\Debug\Music Player App.exe
+C:\Users\2101768\OneDrive - Kirklees College\L3 Software Development Yr1\Project 2\Backup5\bin\Debug\Music Player App.pdb
+C:\Users\2101768\OneDrive - Kirklees College\L3 Software Development Yr1\Project 2\Backup5\bin\Debug\Interop.WMPLib.dll
+C:\Users\2101768\OneDrive - Kirklees College\L3 Software Development Yr1\Project 2\Backup5\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\2101768\OneDrive - Kirklees College\L3 Software Development Yr1\Project 2\Backup5\obj\Debug\Music Player App.csproj.AssemblyReference.cache
+C:\Users\2101768\OneDrive - Kirklees College\L3 Software Development Yr1\Project 2\Backup5\obj\Debug\Interop.WMPLib.dll
+C:\Users\2101768\OneDrive - Kirklees College\L3 Software Development Yr1\Project 2\Backup5\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\2101768\OneDrive - Kirklees College\L3 Software Development Yr1\Project 2\Backup5\obj\Debug\Music Player App.csproj.ResolveComReference.cache
+C:\Users\2101768\OneDrive - Kirklees College\L3 Software Development Yr1\Project 2\Backup5\obj\Debug\Music_Player_App.MusicPlayerApp.resources
+C:\Users\2101768\OneDrive - Kirklees College\L3 Software Development Yr1\Project 2\Backup5\obj\Debug\Music_Player_App.Info.resources
+C:\Users\2101768\OneDrive - Kirklees College\L3 Software Development Yr1\Project 2\Backup5\obj\Debug\Music_Player_App.Properties.Resources.resources
+C:\Users\2101768\OneDrive - Kirklees College\L3 Software Development Yr1\Project 2\Backup5\obj\Debug\Music Player App.csproj.GenerateResource.cache
+C:\Users\2101768\OneDrive - Kirklees College\L3 Software Development Yr1\Project 2\Backup5\obj\Debug\Music Player App.csproj.CoreCompileInputs.cache
+C:\Users\2101768\OneDrive - Kirklees College\L3 Software Development Yr1\Project 2\Backup5\obj\Debug\Music Player App.exe
+C:\Users\2101768\OneDrive - Kirklees College\L3 Software Development Yr1\Project 2\Backup5\obj\Debug\Music Player App.pdb
+C:\Users\2101768\OneDrive - Kirklees College\L3 Software Development Yr1\Project 2\MusicPlayerApp\bin\Debug\Music Player App.exe.config
+C:\Users\2101768\OneDrive - Kirklees College\L3 Software Development Yr1\Project 2\MusicPlayerApp\bin\Debug\Music Player App.exe
+C:\Users\2101768\OneDrive - Kirklees College\L3 Software Development Yr1\Project 2\MusicPlayerApp\bin\Debug\Music Player App.pdb
+C:\Users\2101768\OneDrive - Kirklees College\L3 Software Development Yr1\Project 2\MusicPlayerApp\bin\Debug\Interop.WMPLib.dll
+C:\Users\2101768\OneDrive - Kirklees College\L3 Software Development Yr1\Project 2\MusicPlayerApp\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\2101768\OneDrive - Kirklees College\L3 Software Development Yr1\Project 2\MusicPlayerApp\obj\Debug\Music Player App.csproj.AssemblyReference.cache
+C:\Users\2101768\OneDrive - Kirklees College\L3 Software Development Yr1\Project 2\MusicPlayerApp\obj\Debug\Interop.WMPLib.dll
+C:\Users\2101768\OneDrive - Kirklees College\L3 Software Development Yr1\Project 2\MusicPlayerApp\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\2101768\OneDrive - Kirklees College\L3 Software Development Yr1\Project 2\MusicPlayerApp\obj\Debug\Music Player App.csproj.ResolveComReference.cache
+C:\Users\2101768\OneDrive - Kirklees College\L3 Software Development Yr1\Project 2\MusicPlayerApp\obj\Debug\Music_Player_App.MusicPlayerApp.resources
+C:\Users\2101768\OneDrive - Kirklees College\L3 Software Development Yr1\Project 2\MusicPlayerApp\obj\Debug\Music_Player_App.Info.resources
+C:\Users\2101768\OneDrive - Kirklees College\L3 Software Development Yr1\Project 2\MusicPlayerApp\obj\Debug\Music_Player_App.Properties.Resources.resources
+C:\Users\2101768\OneDrive - Kirklees College\L3 Software Development Yr1\Project 2\MusicPlayerApp\obj\Debug\Music Player App.csproj.GenerateResource.cache
+C:\Users\2101768\OneDrive - Kirklees College\L3 Software Development Yr1\Project 2\MusicPlayerApp\obj\Debug\Music Player App.csproj.CoreCompileInputs.cache
+C:\Users\2101768\OneDrive - Kirklees College\L3 Software Development Yr1\Project 2\MusicPlayerApp\obj\Debug\Music Player App.exe
+C:\Users\2101768\OneDrive - Kirklees College\L3 Software Development Yr1\Project 2\MusicPlayerApp\obj\Debug\Music Player App.pdb
+C:\Users\callu\Downloads\MusicPlayerApp\MusicPlayerApp\bin\Debug\Music Player App.exe.config
+C:\Users\callu\Downloads\MusicPlayerApp\MusicPlayerApp\bin\Debug\Music Player App.exe
+C:\Users\callu\Downloads\MusicPlayerApp\MusicPlayerApp\bin\Debug\Music Player App.pdb
+C:\Users\callu\Downloads\MusicPlayerApp\MusicPlayerApp\bin\Debug\Interop.WMPLib.dll
+C:\Users\callu\Downloads\MusicPlayerApp\MusicPlayerApp\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\callu\Downloads\MusicPlayerApp\MusicPlayerApp\obj\Debug\Music Player App.csproj.AssemblyReference.cache
+C:\Users\callu\Downloads\MusicPlayerApp\MusicPlayerApp\obj\Debug\Interop.WMPLib.dll
+C:\Users\callu\Downloads\MusicPlayerApp\MusicPlayerApp\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\callu\Downloads\MusicPlayerApp\MusicPlayerApp\obj\Debug\Music Player App.csproj.ResolveComReference.cache
+C:\Users\callu\Downloads\MusicPlayerApp\MusicPlayerApp\obj\Debug\Music_Player_App.MusicPlayerApp.resources
+C:\Users\callu\Downloads\MusicPlayerApp\MusicPlayerApp\obj\Debug\Music_Player_App.Info.resources
+C:\Users\callu\Downloads\MusicPlayerApp\MusicPlayerApp\obj\Debug\Music_Player_App.Properties.Resources.resources
+C:\Users\callu\Downloads\MusicPlayerApp\MusicPlayerApp\obj\Debug\Music Player App.csproj.GenerateResource.cache
+C:\Users\callu\Downloads\MusicPlayerApp\MusicPlayerApp\obj\Debug\Music Player App.csproj.CoreCompileInputs.cache
+C:\Users\callu\Downloads\MusicPlayerApp\MusicPlayerApp\obj\Debug\Music Player App.exe
+C:\Users\callu\Downloads\MusicPlayerApp\MusicPlayerApp\obj\Debug\Music Player App.pdb
+C:\Users\callu\Downloads\MusicPlayerApp - Copy\bin\Debug\Music Player App.exe.config
+C:\Users\callu\Downloads\MusicPlayerApp - Copy\bin\Debug\Music Player App.exe
+C:\Users\callu\Downloads\MusicPlayerApp - Copy\bin\Debug\Music Player App.pdb
+C:\Users\callu\Downloads\MusicPlayerApp - Copy\bin\Debug\Interop.WMPLib.dll
+C:\Users\callu\Downloads\MusicPlayerApp - Copy\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\callu\Downloads\MusicPlayerApp - Copy\obj\Debug\Music Player App.csproj.AssemblyReference.cache
+C:\Users\callu\Downloads\MusicPlayerApp - Copy\obj\Debug\Interop.WMPLib.dll
+C:\Users\callu\Downloads\MusicPlayerApp - Copy\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\callu\Downloads\MusicPlayerApp - Copy\obj\Debug\Music Player App.csproj.ResolveComReference.cache
+C:\Users\callu\Downloads\MusicPlayerApp - Copy\obj\Debug\Music_Player_App.MusicPlayerApp.resources
+C:\Users\callu\Downloads\MusicPlayerApp - Copy\obj\Debug\Music_Player_App.Info.resources
+C:\Users\callu\Downloads\MusicPlayerApp - Copy\obj\Debug\Music_Player_App.Properties.Resources.resources
+C:\Users\callu\Downloads\MusicPlayerApp - Copy\obj\Debug\Music Player App.csproj.GenerateResource.cache
+C:\Users\callu\Downloads\MusicPlayerApp - Copy\obj\Debug\Music Player App.csproj.CoreCompileInputs.cache
+C:\Users\callu\Downloads\MusicPlayerApp - Copy\obj\Debug\Music Player App.exe
+C:\Users\callu\Downloads\MusicPlayerApp - Copy\obj\Debug\Music Player App.pdb
+C:\Users\callu\Downloads\MusicPlayerApp\bin\Debug\Music Player App.exe.config
+C:\Users\callu\Downloads\MusicPlayerApp\bin\Debug\Music Player App.exe
+C:\Users\callu\Downloads\MusicPlayerApp\bin\Debug\Music Player App.pdb
+C:\Users\callu\Downloads\MusicPlayerApp\bin\Debug\Interop.WMPLib.dll
+C:\Users\callu\Downloads\MusicPlayerApp\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\callu\Downloads\MusicPlayerApp\obj\Debug\Music Player App.csproj.AssemblyReference.cache
+C:\Users\callu\Downloads\MusicPlayerApp\obj\Debug\Interop.WMPLib.dll
+C:\Users\callu\Downloads\MusicPlayerApp\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\callu\Downloads\MusicPlayerApp\obj\Debug\Music Player App.csproj.ResolveComReference.cache
+C:\Users\callu\Downloads\MusicPlayerApp\obj\Debug\Music_Player_App.MusicPlayerApp.resources
+C:\Users\callu\Downloads\MusicPlayerApp\obj\Debug\Music_Player_App.Info.resources
+C:\Users\callu\Downloads\MusicPlayerApp\obj\Debug\Music_Player_App.Properties.Resources.resources
+C:\Users\callu\Downloads\MusicPlayerApp\obj\Debug\Music Player App.csproj.GenerateResource.cache
+C:\Users\callu\Downloads\MusicPlayerApp\obj\Debug\Music Player App.csproj.CoreCompileInputs.cache
+C:\Users\callu\Downloads\MusicPlayerApp\obj\Debug\Music Player App.exe
+C:\Users\callu\Downloads\MusicPlayerApp\obj\Debug\Music Player App.pdb
