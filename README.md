@@ -14,6 +14,14 @@ This project I did at college and I was tasked with making a music oplayer app t
 - <b>Figma</b>
 - <b>Trello</b>
 
+<h2>Figma Mood Board & Design:</h2>
+
+- <b>[Mood Board](https://www.figma.com/board/0oAMH6a14KZBxnodK58pAs/Mood-board?node-id=0-1&p=f&t=xozRWLVj7pA17pOp-0)</b>
+
+- <b>[Music Icon](https://www.figma.com/design/rKdaT4HGrMc49fvpd7ycPn/Music-Icon?node-id=0-1&p=f&t=6dBmCVP1Wzx1ovkk-0)</b>
+
+- <b>[Music Player Prototype](https://www.figma.com/design/QvONLFwqom7yE4DuxFvW69/Music-player-prototypes?t=EY7yHbr7IxrTayZd-0)</b>
+
 <h2>Program walk-through:</h2>
 
 <p align="center">
