@@ -11,6 +11,8 @@ This project I did at college and I was tasked with making a music oplayer app t
 
 - <b>Visual Studio</b> 
 - <b>C#</b>
+- <b>Figma</b>
+- <b>Trello</b>
 
 <h2>Program walk-through:</h2>
 
