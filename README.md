@@ -3,7 +3,7 @@
  ### [YouTube Demonstration](https://youtu.be/itpwCaFr0-I)
 
 <h2>Description</h2>
-This project I did at college and I was tasked with making a music oplayer app to save music in a list and play it using windows media player. I used C# and windows form in Visual Studio IDE.
+This project I did at college and I was tasked with making a music oplayer app to save music in a list and play it using windows media player. I used C# and windows form in Visual Studio IDE. I designed the app in Figma and used Trello to keep track of the software development life cycle of the app.
 <br />
 
 
